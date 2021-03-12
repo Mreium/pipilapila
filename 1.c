@@ -16,7 +16,7 @@ int main()
 				printf("直角三角形\n");
 				else printf("普通三角形\n");
 	}
-	else printf("不是三角形\n");
+	else printf("不是三角形1234\n");
 	}
 	return 0;
 }
